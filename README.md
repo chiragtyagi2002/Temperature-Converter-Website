@@ -2,7 +2,7 @@
 # Temperature_Converter_Website
 This repository contains the source code and assets for a portfolio website built using HTML, JavaScript, and CSS.
 
-Link : https://lakshayrao2301.github.io/OIBSIP-Task-3-Temperature-Converter-Website/
+Link : https://lakshayrao2301.github.io/Temperature-Converter-Website/
 
 The website serves as a showcase for your work and provides information about your skills, projects, and contact details.
 
